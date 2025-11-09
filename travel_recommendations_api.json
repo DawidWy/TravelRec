@@ -1,0 +1,53 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "imageUrl": "images/australia.jpg",
+      "description": "Australia is a country and continent surrounded by the Indian and Pacific oceans. Its major cities – Sydney, Brisbane, Melbourne, Perth, Adelaide – are coastal. Its capital, Canberra, is inland.",
+      "timeZone": "Australia/Sydney"
+    },
+    {
+      "id": 2,
+      "name": "Brazil",
+      "imageUrl": "images/brazil.jpg",
+      "description": "Brazil is the largest country in South America, known for its vibrant culture, diverse ecosystems like the Amazon rainforest, and iconic landmarks such as the Christ the Redeemer statue in Rio de Janeiro.",
+      "timeZone": "America/Sao_Paulo"
+    },
+    {
+      "id": 3,
+      "name": "Japan",
+      "imageUrl": "images/japan.jpg",
+      "description": "Japan is an island country in East Asia, famous for its dense cities, imperial palaces, mountainous national parks and thousands of shrines and temples. Tokyo, the capital, is known for its neon-lit skyscrapers.",
+      "timeZone": "Asia/Tokyo"
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Kinkaku-ji (Golden Pavilion), Kyoto",
+      "imageUrl": "images/kyoto.jpg",
+      "description": "Kinkaku-ji is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular buildings in Japan, attracting many visitors annually. Its top two floors are completely covered in gold leaf."
+    },
+    {
+      "id": 2,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/angkor.jpg",
+      "description": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world. Originally constructed as a Hindu temple, it was gradually transformed into a Buddhist temple."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "images/borabora.jpg",
+      "description": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by a turquoise lagoon protected by a coral reef, it's known for its scuba diving and overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Maldives",
+      "imageUrl": "images/maldives.jpg",
+      "description": "The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It's known for its beaches, blue lagoons, and extensive reefs."
+    }
+  ]
+}
